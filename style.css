@@ -1,0 +1,7 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;    /* 100x100 memory cards */
+    height: 300px; /* 3 in a column */
+    width: 400px;   /* 4 in a row */
+
+}
